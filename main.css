@@ -83,7 +83,7 @@ main section div button:hover{
 
 }
 
-@media (max-width: 375px){
+@media (max-width: 700px){
     main {
         height: 100%;
     }
